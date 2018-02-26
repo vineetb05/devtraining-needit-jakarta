@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element attributes="omit_sys_original=true" label="New Currency" max_length="20" name="u_currency_1" type="currency"/>
+    </element>
+</database>
